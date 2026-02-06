@@ -38,3 +38,6 @@
     Better for credit risk decision support, collections prioritization, and stress testing
 
     Aligns more closely with regulatory and business objectives focused on risk mitigation
+
+- Probability of Default (PD) was estimated using logistic regression, where the model predicts the conditional probability of default in the next period given borrower demographic, behavioral, and financial attributes. Model outputs were
+    interpreted directly as PD estimates and evaluated using ROC–AUC and recall to assess discriminatory power under both imbalanced and balanced training regimes.
