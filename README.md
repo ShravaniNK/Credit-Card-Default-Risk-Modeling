@@ -19,7 +19,7 @@
 
 ![Class Dsitribution](https://github.com/ShravaniNK/Credit-Card-Default-Risk-Modeling/blob/e54e34ff69ef53685648455070866ba378285e8c/image1.PNG)
 
-![SMOTE Balanced Data](https://github.com/ShravaniNK/SQL-Gestational_Diabetes_DataAnalysis/blob/e517ca4b9c4d238b5cb75eab06e4ff51e7d8f6f4/GDM_ERD.jpg)
+![SMOTE Balanced Data](https://github.com/ShravaniNK/Credit-Card-Default-Risk-Modeling/blob/55d2416256331fdbdf168d8fe927afaa2ecc6dda/image2.PNG)
 
 ![ROC curves](https://github.com/ShravaniNK/SQL-Gestational_Diabetes_DataAnalysis/blob/e517ca4b9c4d238b5cb75eab06e4ff51e7d8f6f4/GDM_ERD.jpg)
 
