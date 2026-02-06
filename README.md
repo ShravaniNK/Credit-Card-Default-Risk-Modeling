@@ -13,7 +13,7 @@
 
 - Fetaure Engineered behavioral risk features including delinquency trends, credit utilization, and payment ratios to improve model accuracy.
 
-- Evaluated model performance for original unbalanced and SMOTE balanced data using ROC–AUC, KS statistic, confusion matrices, and score band analysis.
+- Evaluated model performance for original unbalanced and SMOTE balanced data using ROC–AUC, KS statistic, and confusion matrices.
 
 
 
