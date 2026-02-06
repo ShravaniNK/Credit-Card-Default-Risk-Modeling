@@ -23,7 +23,7 @@
 
 ![ROC curves](https://github.com/ShravaniNK/Credit-Card-Default-Risk-Modeling/blob/641314727094a26a6ada5e53fbb56145d59a559d/image3.PNG)
 
-![Table Comparison](https://github.com/ShravaniNK/SQL-Gestational_Diabetes_DataAnalysis/blob/e517ca4b9c4d238b5cb75eab06e4ff51e7d8f6f4/GDM_ERD.jpg)
+![Table Comparison](https://github.com/ShravaniNK/Credit-Card-Default-Risk-Modeling/blob/7742f535b3556fd84094a0cd3d8a3b58e8b20d04/image4.PNG)
 
 - Conclusions: Final Model Selection Insight
 
